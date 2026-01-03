@@ -1,0 +1,8 @@
+{
+  "name": "SMARC 2026 - Medical Research Conference",
+  "description": "Official website for the Southern Medicos Annual Research Conference 2026, featuring workshop schedules, speaker profiles, and registration details.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
